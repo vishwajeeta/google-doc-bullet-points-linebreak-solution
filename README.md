@@ -10,17 +10,17 @@ Automatically removes empty bullet points, trims extra spaces, and preserves the
 
 ## How It Looks
 
-Before:
+### Before:
 
-![Before Cleanup](Screenshots/Screenshot627.png)
+![Before Cleanup](screenshorts/Screenshot%20(627).png)
 
-After:
+### After:
 
-![After Cleanup](Screenshots/Screenshot628.png)
+![After Cleanup](screenshorts/Screenshot%20(629).png)
 
-Optional clean sub-bullets:
+### Optional clean sub-bullets:
 
-![Sub-bullets cleaned](Screenshots/Screenshot629.png)
+![Sub-bullets cleaned](screenshorts/Screenshot%20(629).png)
 
 
 ## How to use
